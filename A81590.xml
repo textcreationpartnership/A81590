@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doctrine of vnitie, or An antidote for the city of London and therein for the whole kingdome besides, against division a certaine symptome of destruction. With a caution for malignants of the same city.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81590</idno>
+            <idno type="STC">Wing D1776</idno>
+            <idno type="STC">Thomason E246_40</idno>
+            <idno type="STC">ESTC R3851</idno>
+            <idno type="EEBO-CITATION">99872510</idno>
+            <idno type="PROQUEST">99872510</idno>
+            <idno type="VID">158398</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158398)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E246[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doctrine of vnitie, or An antidote for the city of London and therein for the whole kingdome besides, against division a certaine symptome of destruction. With a caution for malignants of the same city.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "March. 9.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="doctrine">
+            <pb facs="tcp:158398:1" rendition="simple:additions"/>
+            <head>THE Doctrine of Vnitie, OR An ANTIDOTE for the City of LONDON and therein for the whole Kingdome beſides, AGAINST DIVISION A certaine SYMPTOME of DESTRUCTION. With a Caution for Malignants of the ſame City.</head>
+            <epigraph>
+               <q>
+                  <hi>Ecce quam bonum &amp; quam jucundum eſt habitare fratres in unum.</hi>
+               </q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">N</seg>Ova rerum facies;</hi> Nay, and we men too as well as things have put on new faces. It is a difficultie to finde one man that hath not changed his opinion or meta<g ref="char:EOLhyphen"/>morphoſed his manners ſince the beginning of Parlia<g ref="char:EOLhyphen"/>ment, ſome varying in ſome things, others in all, but all in ſome: Some turne to the King, others to the Par<g ref="char:EOLhyphen"/>liament, and ſome turne round. So that we men who ſhould bee ſtable firme and conſtant in our judgements and opinions, are now grown effeminate and change with every new moone: nay, and it is well, if not before: where can you find one of that gravitie and perſeverance, who can give you this account that he hath been always one? No, we have moſt ignobly degenerated from that virile and unſhaken ſpirit, that e<g ref="char:EOLhyphen"/>very Heroick mind ought to carry along with it. And though it be plauſible for a man ſometimes <hi>mutare ſententiam,</hi> upon better ground and reaſon; (for no man ought ſo to ſacrifice to his own Net or to adore his own judgement or o<g ref="char:EOLhyphen"/>pinion, as not to be counterpoiſed or over-ballanced by better and more cleare principles of reaſon) yet for a man (like a weather-cock) to have no certaine ſta<g ref="char:EOLhyphen"/>tion; but to vary according to the incertaine blaſt of fame, or the ſeverall opi<g ref="char:EOLhyphen"/>nions of thoſe many companies and aſſociates he meets with all; is extreamly fanaticke and ridiculous. And I wiſh that there were not to many amongſt us
+<pb facs="tcp:158398:2"/> (dangerous men) who in theſe dubious and uncertaine times know not (in caſe a ſtorme ſhould ariſe) where to caſt Anchor; who by their diviſion and oppo<g ref="char:EOLhyphen"/>ſition have talked themſelves quite beſide their reaſon; having no dependance but upon a future incertaine opportunity, which they are ready to imbrace whenſoever it ſhall offer it ſelfe, be it on which ſide it will. The moſt prevalent party ſhall ſway their judgement; and as the doubtfull ſucceſſe of warre ſhall appeare to either ſide (whether ſeemingly or certainly) to crowne their indea<g ref="char:EOLhyphen"/>vours, ſo will theſe men like an over or under charged ballance, goe up or down. And theſe are they who cry downe ſiding faction and ſedition. (and juſtly to) while in the meane time they are the moſt dangerous men, who know not the treachery that is lodged in their owne hearts, but hang upon the tenter of an uncertain event, whether agreeable to or againſt conſcience. And who more likely (what ever they pretend) to blow the miſerable and unhappy coale of ſedition and diviſion amongſt us, than ſuch who watch their opportunity to raiſe them<g ref="char:EOLhyphen"/>ſelves by the ruine of others. Neutrality alwayes carries with it an eye of policy, And though I cannot but acknowledge my ſelfe an enemy to the Cavalliers, yet I muſt profeſſe to the whole world, that my conſcience inſtructs me, that I have more reaſon to dread the former, than the latter, by how much the more a clandeſtine and unknowne enemy is to be feared above an open and pro<g ref="char:EOLhyphen"/>feſt one.</p>
+            <p>And for my part, I deſire to ſtand neuter as to either of theſe. But now give me leave to inform our grave and wiſe Citizens (for the ſpring approaches in which we muſt expecta 2<hi rend="sup">d</hi> attempt, if not before prevented by a ſeaſonable acco<g ref="char:cmbAbbrStroke">̄</g>moda<g ref="char:EOLhyphen"/>tion) upon what pinne the danger of this famous Metropolis hangs; and that is, upon the imminent hazard of fraction and diviſion, the certaine carecter of ru<g ref="char:EOLhyphen"/>ine and confuſion. It is the Divils poſition (too too much practiſed now adayes by his Agents and inſtruments) divide, and overcome. No way like that to faci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate a conqueſt. For as in a great Arm <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> let the body keepe intire and unde<g ref="char:EOLhyphen"/>vided; many thouſands happily will not overcome them, but diſperſe and divide them into ſmaller bodies, and then that force which might bee before almoſt invincible, may now be put to flight and be routed (if not deſtroyed) by a petty inconſiderable Army. Or as it is with a mans hand, one finger by it ſelfe hath but little ſtrength it it, but take the whole hand together with the united ſome of all the fingers and then it will prove very ſtrong and potent. So it is with this City, while it remaines intire without rents and diviſions, all joyntly combining for the good of the publique, it is like an impregnable Fort, not to be taken by a farre greater power then the Cavaliers dare lay claime to: But if once divided then it is layed open and made obnoxious to the might and power of the Enemy, and is eaſily overcome, you know who ſaid it a Kingdome divided within it ſelfe cannot ſtand; and if it were poſſible that hell could bee divided it would come to utter ruine and deſolation: of ſuch power and force are ſchiſmes and diviſions. This is that which is the odium of Heaven, the delight of hell, and the ruine of us poore mortals. This is that feed which the Divell and Antichriſt ſo w<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> ſcatters throughout the whole world raiſing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> againſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ner againſt
+<pb facs="tcp:158398:2"/> power, a Kingdome, City and Country againſt themſelves. Were it not for this no people or perſons could ever be made miſerable. O then worthy Citizens, (whoſe piety and zeale to the publike, will bee for ever admired and renowned in ſucceeding ages.) Vnite your ſelves by a ſtrong tye and obligation, to ſerve your King and Countrey. And let not the policy of the ſubtill adverſary divide you one from another: conſider that it is the Divels ſtratageme, more practiſed now than ever; and if you ruine not your ſelves, tis not any externall force or power can hurt you. Vnion in a good cauſe is the ioy of heaven, the envie of Hell, and the happineſſe of men. Tis that which now puts a Price into your hands of being for ever happy. Tis that, and nothing elſe under heaven, that can ſecure you from the Common adverſary: ſeeing that there are ſo many <hi>fra<g ref="char:EOLhyphen"/>tres in malo,</hi> combined together againſt you: doth it not concerne you to be<g ref="char:EOLhyphen"/>come <hi>fratres in bono?</hi> wherefore let us all joyne in a ſolemne vow never to di<g ref="char:EOLhyphen"/>ſerte the cauſe untill heaven crowne our deſires with a bleſſed iſſue. Tis for out Religion, then which, nothing on this ſide heaven more precious. This is that which through the divine aſſiſtance gives wings to the ſoule, and makes it ſore aloft, never ſuffering it to be at reſt, untill with a holy impatience it hath got in<g ref="char:EOLhyphen"/>to, and repoſed it ſelfe in Abrahams boſome, while all other terrene and ſublu<g ref="char:EOLhyphen"/>nary happineſſe whatſoever, is but like to golden chaines, cloggs and fetters bin<g ref="char:EOLhyphen"/>ding us over to theſe uncertaine vanities, dividing betwixt us and heaven, depreſ<g ref="char:EOLhyphen"/>ſing and detruding the ſoule into the loweſt centre. This is that which ſweetens and adds a pleaſant ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pour to all other fading and momentany happineſſe: were it not for a future expectancy of heaven, what would the ſhort ini<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yment of a petty inconſiderable nothing availe us; what a ſmall difference then betwixt us and bruits; or rather what a great difference would there be; for they (which were made only for the ſervice of man) would after this little minute or mo<g ref="char:EOLhyphen"/>ment of life paſt, be in farre better ſtate and condition then the reaſonable ſoule: for they ſhall returne to their firſt principles, nothing, but poore man be for ever, even to the utmoſt extremity miſerable. If we give away our Religion, we re<g ref="char:EOLhyphen"/>nounce our God, fell Heaven, and depart from all poſſibility of our ſucceeding eternall happineſſe, and the ſoule muſt have a being, if not above, yet below, if not in bleſſedneſſe, yet in perpetuall woe. O then let us reſolve to unite our ſelvs in a ſacred combination; and rather diveſt our ſelves of all we are, have, or en<g ref="char:EOLhyphen"/>joy; then part with this pretious gemme, which will bee our ſureſt and moſt faithfull friend when either we forſake the happineſſe of the world as certainly we muſt for ſo heaven hath decreed it, <hi>Statutum eſt omnibus ſemel mori:</hi> or when it ſhall leave and deſert us, as caſually it may, for there is no ſtability or conſtancy in any temporall happineſſe. Againe it is for our Parliaments, and in them for our lawes, liberties, and properties; if we maintaine not the former, the latter will quickly be forced from us. The policie of State erected Parlia<g ref="char:EOLhyphen"/>ments as the <hi>ultimum refugium</hi> (in caſe other powers neglected their duty, or abuſed their authority in preiudice of the publike) for the ſubiect to flie to, for redreſſe of their heavie preſſures and grieuances, and theſe always have been the certaine propps and pillers of State, and the Patrons of our Laws and Liberties:</p>
+            <pb facs="tcp:158398:3"/>
+            <p>And if we ſhall now fooliſhly like Eſau, part with our glorious Birthright for a poore meſſe of Pottage, ſell our Parliaments for a trifle, what wil become o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us and our whole poſterity. They are the onely evidences wee have to ſhew for all we enjoy, and if wee looſe theſe, no other aſſurance whatſoever can ſe<g ref="char:EOLhyphen"/>cure our Titles. As the Sunne is to the Earth; The Phiſitian to the weake Pati<g ref="char:EOLhyphen"/>ent or (which is yet more) the life or ſoule to the body of man, ſuch and of the like conſequence are our Parliaments to us. While the Sonne appeares with its reſplendent raiſe the earth fructifies and is beautifull, but if that ſhould hide or withdraw it ſelfe, how would the glory of the ſpring flagge and hang down its head for want of that glorious luſtre: and the earth become ſterill and barren, bringing forth nothing but comberſome weedes and fruitleſſe Thiſtles. And while the weake patient is ruled by the skilfull Phiſitian, and followes his pre<g ref="char:EOLhyphen"/>ſcriptions, ſo long the violence of his diſeaſe doth abate, and there is great hopes of a recovery; but let him diſcontinue his courſe of Phiſicke and deſert his Phiſitian, and immediately he fals into a deſperate relaps, and becomes worſe then ever.</p>
+            <p>And laſtly, while the life or ſoule of a man is united and continues with the body, ſo long it is active and moveing, but when once the ſoule hath left it's habitation and is departed, the body then periſhes &amp; decayes and moulders away into its fi ſt principles. Iuſt thus it is with us; while we enjoy the Sunſhine of our Parliaments, and deſert not this great Phiſitian which is as the very life and being of the State, ſo long <hi>proſpire ſuccedunt omnia,</hi> the State flouriſhes, the King is happy in his people, and the people bleſt in their King. The King enjoyes his juſt Prerogative, and the people their Liberties, and properties. But if once theſe be taken away, or but diſcontinued for a time, then multitudes of State preſſures and unſupportable burdens croud in upon us, the Law then looſeth its ſtrength and vigor, and the Subject his liberty and property, then forct bene<g ref="char:EOLhyphen"/>volences and loanes, a farre greater plague to the purſe than the twentieth part, will be impoſed upon us. Then will the Tyranny and Arbitrary power of the Lievetenants and deputies Lievetenants be againe revived amongſt us, then ſhall new impoſts and exciſes againe vex us; n d new found courts and Corpo<g ref="char:EOLhyphen"/>rations, farre worſe then the old, poſter us, then will the grand Proiect Ship-money, and coate and conduct money (of which now there may be greater need then ever) (the great drayners and exhauſters of the ſubjects ſtore) be againe ſet on foot to undoe us. Then will Monopolies (the ruine and bane of a ſtate) like peſts of lice and Locuſts ſwarme amongſt us, then ſhall we have a High Commiſſion Court, and Starre-chamber againe, to exerciſe a power and iuriſdic<g ref="char:EOLhyphen"/>tion above and beſides the Law, to plague us with grand penalties, for our ſmall offences, and then ſhould a Proclamation crate Law, and be of as good authority as my Lord Coke, or any of our yeare Bookes; and <hi>Magna Charta,</hi> be as a dead letter, not able to defend the Subiects Liberty or property, thus would it farre with the State, I and much worſe, if we were but once courted out of our Parliaments, and which is above all our condition would be as bad, if not worſe in the Church; then would the Pontificiall power Lord it over us againe, and ex<g ref="char:EOLhyphen"/>communicate
+<pb facs="tcp:158398:3"/> praying and Preaching, or thoſe that uſe it, without that they will follow the Epiſcopall ſtraine, crying up the Kings Prerogative, and pre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ching downe the ſubiects liberty and property; as if the Kings honour and ſubſtance did depend meerely upon the ruine of his people. No contientious Lectorers, or pious and laborious Preaching Miniſters ſhould then be tollerated. No, the pride ſloath and covetouſneſſe of the Prelacy and theſe are inconſiſtent, they cannot poſſibly ſtand together, but the one will detrude and depreſſe the other. Then ſhould we have the rabble of innovations introducted, new diſciplines, I and new doctrines too broached; Ieſuits and Seminary Prieſts, with their facti<g ref="char:EOLhyphen"/>ous and damnable religion nou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſhed; I and wee our ſelves too poaſting head<g ref="char:EOLhyphen"/>long to Popery. To be ſhort, all things both in Church and ſtate would change their habits and become new; nothing then ſh uld be tollerated, but which ſhould have the ſpetious and faire pretence of a refined government, or of a more pure and glorious religion; whereas the meere bent and aime would be gradually to introduct an Arbitrary power in the State, &amp; pompous ſuperſtition and Pope<g ref="char:EOLhyphen"/>ry in the Church. Now our Parliaments are as a Hedge wall or fence againſt ſuch incroachments or uſurpations, which while it ſtands ſecures us from all theſe but if we unwiſely ſuffer this pertition to be broken or trodden downe, then all theſe heavy burdens and miſeries, threatning ruine to our Religion Lawes. Li<g ref="char:EOLhyphen"/>berties and properties like an invation of the vaſt and irreſiſtable Ocean flow in upon us. O then worthy Citizens (you whom ſucceeding ages will honour, and dignifie with the ſtyle of your countreys Patriarches) tye your ſelves toge<g ref="char:EOLhyphen"/>ther in the bend of Union, and reſolve never to deſert the Parliament, leaſt Heavkn as a juſt judgement upon ſo vilde a defection, deprive you and your po<g ref="char:EOLhyphen"/>ſterity of the future happy injoyment, of ſo great a bleſſing. Your Religion, laws Liberty, and property (the compendium of all temporall happineſſe) doe now lye at ſtake in this unhappy contention, and if you would be ſtript and diveſted of all theſe (without which life is but a burden, and that as a prologue of eter<g ref="char:EOLhyphen"/>nall infelicity) ye moſt exact and compendious way to accompliſh it, is by er<g ref="char:EOLhyphen"/>ecting a Wall of diviſion amongſt your ſelves. And if you would mainetaine and defend theſe (as it concernes every one to doe, who would not inſlave him<g ref="char:EOLhyphen"/>ſelfe and his whole poſterity) the onely meanes (under God) of preſervation and continuation of our preſent felicity, is by a ſweet concord and union, where<g ref="char:EOLhyphen"/>fore take your choice either divide and deſtroy; or unite and preſerve and over come; either will perfect its worke amongſt us. But rather then live to ſee the former, may Heaven be ſo proprious to me as to cloſe mine eyes, that they may not atteſt the juſt judgement of ſo unworthy an Apoſteſie, or be ſenſible of the miſery.</p>
+            <p>But yet to draw more cloſe and neare unto you worthy Citizens, this City is the Metropolis, the onely renowned and famous City of the whole Kingdome, that which hath bread and raiſed ſo many great and glorious lights both in Church and State: the moſt faithfull and tender M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther to a vigilant and duti<g ref="char:EOLhyphen"/>full childe that ever England had, where have you found men raiſed (even from the moſt low and indigent condition) to thoſe vaſt and almoſt unfadomable
+<pb facs="tcp:158398:4"/> Mines and Treaſure of wealth, that many men have attained to through their ſedulous care and induſtry in this City? Some of your Families being Noble, o<g ref="char:EOLhyphen"/>thers matched with Nobility, and thouſands of you attained to great dignities; and I may juſtly ſay that this City never failed any man of his great reward, that hath beene true and faithfull to God and his owne ſoule.</p>
+            <p>O then doe not by fraction and diviſion amongſt your ſelves, goe about to deſtroy this great and glorious City; your nourſing Mother that hath bread, nouriſhed, &amp; elevated you above the vulgar condition, no greater or more crying ſinne againſt nature and gratitude then this; to be a cauſe or meanes of the de<g ref="char:EOLhyphen"/>ſtruction of that, which hath beene thy life and preſervation. Matricide of all other crimes, is the moſt unnaturall, moſt deteſtable, doe not to ſpare a poore patrimony (which thou art not ſure thou ſhalt preſerve neither) ſell thy glorious Mother to utter ruine and confuſion, leaſt one day the ruines and deſolations of this famous City riſe up in judgement againſt you; it is diviſion onely that can raze and overthrow it, and unity alone that can and will preſerve and ſupport it.</p>
+            <p>Againe, as this City is the greateſt, ſo it is the richeſt and moſt wealthy City in all the Kingdome, this is as it were the Apotheca repoſitory, or Treaſury of the Kingdome; where the common Stocke or Treaſure, is repoſited or laid up: and is from hence as occaſion cals for it, diſburſed, ſcattered and diffuſed into the whole State. Now would you keepe and preſerve the Stocke and Treaſure of the City, the onely way to doe it, is by unity, diviſion (like a theefe) will robbe and ſpoyle you of it, and make the Cavaliers maſter of all you enjoy this is their hopes, and you are their envy; they long to enrich themſelves by your Coffers rapine is their pray and livelyhood; and they know here is good plun<g ref="char:EOLhyphen"/>der. I here is that, that will make abundant reſtitution to ſuch who pretending they have loſt that they never had, doe in theſe troubled waters, make a rich booty of poverty; and labour to patch up a decayed fortune by the ruines of o<g ref="char:EOLhyphen"/>thers, I this will make a full ſatisfaction to the Cavaliers, if they could attaine it (which judgement I beſeech God divert from this poore diſtracted City) for their ill ſervice to the publique. And let not thoſe that are Malignant in the Ci<g ref="char:EOLhyphen"/>ty (out of I know not what vaine hopes) promiſe to themſelves a greater free<g ref="char:EOLhyphen"/>dome or ſecurity in a common Plunder then others, and ſo be wrought upon, to betray this great and glorious City to utter ruine and deſtruction; for let them know tis a mercy that none yet could meet withall, to ſpare even their owne faction; and why ſhould they then feed themſelves with ſuch idle and almoſt im<g ref="char:EOLhyphen"/>poſſible poſſibilities. Beſides the ſouldiary is for the moſt part the ſcumme and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ffamanicke of the heady, rude, and untamed multitude (made many degrees worſe by that deſperate and bloody profeſſion) and therefore it is not to be ex<g ref="char:EOLhyphen"/>pected that they will ſhew favour to any, when they have ſufficient power; and fit opportunity to be cruell, or if they would ſhew mercy (a rare and unuſuall qualification with men of that profeſſion) doe you thinke, or can you diſcover ſo much folly in your ſelves to beleeve, that they would ſtand to diſpute or en<g ref="char:EOLhyphen"/>quire who are Malignants and who not or to ſever the Goats from the Sheep,
+<pb facs="tcp:158398:4"/> and to ſpare the former, but deſtroy the latter it is the extremity of folly to con<g ref="char:EOLhyphen"/>ceive it, their neceſſity, and cruell deſire of ſpoyle and plunder, would not per<g ref="char:EOLhyphen"/>mit them to make any demurre or diſtinction, and rather then they would ſuf<g ref="char:EOLhyphen"/>fer one Round-head (as thoſe men of blood are pleaſed to ſtyle all ſuch as are faithfull to God, loyall to their King, and true to their owne ſoules) to eſcape free from the hand of violence (ſuch an odium they beare in their hearts to all honeſt men) they would robbe and plunder their owne freinds; and make ſuch (as a juſt judgement upon ſo horrid a Treachery) prove actors in their owne ruine, why then if this be true, as I beleive every wiſe and judicious man will ea<g ref="char:EOLhyphen"/>ſily (without much perſwaſion) conceive ſo, let this abate and conjure backe a<g ref="char:EOLhyphen"/>gaine that dangerous deſtructive Spirit of diviſion that is riſen amongſt us, wee raiſed it, and the Devill foments and increaſes it; and (if we be not the more vigi<g ref="char:EOLhyphen"/>lant and carefull over our ſelves, and labour while it is time, to reconcile and make up our fractions and oppoſitions) will never be at reſt, or ceaſe blowing of this Coale, untill he hath made an unquenchable flame and fire amongſt us, let us not then nouriſh the Devill. Brat, or foſter ſuch a Scorpian in our breaſts as will ſting us to death, and undoe us and our whole poſterity for ever.</p>
+            <p>Againe, this City is the B<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of malice, againſt this doe the Cavaliers bond all their aimes, as being their principall Opponent, and maintainer of the cauſe in queſtion. Tis you brave Citizens that have freely (to the great honour of your Nation) disburſed and expended your Treaſure for the good of your King and Countrey; and have withheld nothing, neither eſtate, nor perſons, which might conduce to your Countries welfare and happineſſe (for which Heaven grant you an eternall reward) I ſay it is you, and you alone that have beene the maine propp and ſupport of the cauſe of God, of our religion, of our Parliaments, Liberties, and properties; and therefore you cannot but expect that this ſhould ſwell and increaſe the envy of that faction againſt you, and more inflame their blood to a revenge upon you, then upon any part of the Nation beſides, of ways the more potent and noxious the enemy, the greater is the heart of malice and en<g ref="char:EOLhyphen"/>vy againſt him. Now this likewiſe ſhould ingage you to a ſtrong &amp; indiſolvable Vnion one with another: by how much the greater their malice is that malig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e you; by ſo much the more ſhould your love and intire affection be augmented a<g ref="char:EOLhyphen"/>mongſt your ſelves. when rapinous and devouring wolves hearde and fllock to<g ref="char:EOLhyphen"/>gether, that is not a time for innocent and harmeleſſe Sheepe to be divided and ſtrayning one from another.</p>
+            <p>Laſtl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, this City is as the center or middle point, or as the heart or life of the Kingdome, upon this is the eye of the whole Nation, the good or ill ſucceſſe of this City hath an influence upon the whole common wealth; and if the Cava<g ref="char:EOLhyphen"/>liers once getting footing here (which Heaven forbid) twill not then be diffi<g ref="char:EOLhyphen"/>culte to make a Conqueſt of the whole Kingdome, and that bei g brought to paſſe, we know that then we are <hi>ad arbitrium Principis,</hi> at the arbitrary will of our Prince for all that we enjoy; then that poſition of the Civilians (one of the main grounds of our preſent contention) would be good law. <hi>Voluntas regis legis habet vigorem,</hi> the will of the Prince, is a law, then would all depend upon
+<pb facs="tcp:158398:5"/> our Soveraignes pleaſure, we could make no certain claime or title to any thing under heaven; and what aſſurance can we hope to get of that ei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Religion ſhall be forced from us. Now on you noble Citizens, and on you a<g ref="char:EOLhyphen"/>lone, under God, doth all the future happineſſe of this Nation depend, if you faint the whole Kingdome will preſently faile, fall, and come to utter una<g ref="char:EOLhyphen"/>voidable deſolation. Conſider with your ſelves that this is a bleſſed and honou<g ref="char:EOLhyphen"/>rable opportunity that God hath put into your hands, and who knowes but for this very cauſe God increaſed your ſtore, and reſerved you and it for this occa<g ref="char:EOLhyphen"/>ſion, to be the meanes of preſervation of your King and Countrey, and in them of your Religion, Lawes, and Liberties. What greater renowne or honour can poſsibly befall you then this, to be the ſupports and patrons of ſo great happi<g ref="char:EOLhyphen"/>neſſe to your Countrey? to preſerve a bleeding, fainting, dying Kingdom from utter confuſion and deſolation. In your hands, under God, is wrapt up our very life and happineſſe, and you have the honour of the bleſſed opportunity of con<g ref="char:EOLhyphen"/>tinuing and maintaining both, and what ingagement can be greater, or give fuller ſatisfaction to the moſt vaſt illimited ambitious deſire in the world? O then, let this likewiſe move you to continue firme, ſtable, and united one to<g ref="char:EOLhyphen"/>wards another, conſidering that your fractions and diviſions will not only de<g ref="char:EOLhyphen"/>ſtroy your ſelves, but expidite and poſt on the ruine of the whole Nati<g ref="char:EOLhyphen"/>on, and if by your diviſion yov ſhall worke out your owne confuſi<g ref="char:EOLhyphen"/>on, and by con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>equence undoe the Kingdome, no doubt the deſolations of poore deplorable England, will one day be accounted upon your ſcore, and riſe up in iudgement againſt the City. O then for the Kingdomes your owne, and your poſterity ſake (which are all bound up in this opportunity) imbrace unity and follow peace one with another, be of one mind, live in peace, and the God of peace ſhall be with you. 2 Cor. 13.11.</p>
+            <epigraph>
+               <q>
+                  <bibl>Rom. 16. ver. 7.</bibl>
+                  <p>I beſeech you Brethren mark them which cauſe diviſions and of<g ref="char:EOLhyphen"/>fences contrary to the doctrine which ye have learned, and avoid them.</p>
+               </q>
+            </epigraph>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
